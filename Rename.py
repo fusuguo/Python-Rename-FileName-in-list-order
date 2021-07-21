@@ -1,5 +1,5 @@
 import os
-#  测试提交
+#  测试提交11
 #path = r"C:\Users\95340\Desktop\2018-A-打印\保险"
 path = input(r"请输入需要改名的文件所在路径")
 filelist = os.listdir(path)
